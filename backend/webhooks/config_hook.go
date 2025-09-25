@@ -2,7 +2,7 @@ package webhooks
 
 import (
 	"github.com/labstack/echo/v4"
-	"github.com/teamhanko/hanko/backend/config"
+	"github.com/FreddyDevelop/hanko/backend/v2/config"
 	"time"
 )
 

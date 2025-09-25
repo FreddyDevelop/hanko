@@ -6,7 +6,7 @@ import (
 	"crypto/sha256"
 	"encoding/hex"
 	"errors"
-	"github.com/teamhanko/hanko/backend/config"
+	"github.com/FreddyDevelop/hanko/backend/v2/config"
 	"golang.org/x/oauth2"
 	"net/url"
 )

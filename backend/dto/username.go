@@ -2,7 +2,7 @@ package dto
 
 import (
 	"github.com/gofrs/uuid"
-	"github.com/teamhanko/hanko/backend/persistence/models"
+	"github.com/FreddyDevelop/hanko/backend/v2/persistence/models"
 	"time"
 )
 

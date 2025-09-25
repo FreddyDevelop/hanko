@@ -2,7 +2,7 @@ package thirdparty
 
 import (
 	"fmt"
-	"github.com/teamhanko/hanko/backend/config"
+	"github.com/FreddyDevelop/hanko/backend/v2/config"
 	"net/url"
 	"strings"
 )

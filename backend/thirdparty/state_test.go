@@ -3,7 +3,7 @@ package thirdparty
 import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/teamhanko/hanko/backend/config"
+	"github.com/FreddyDevelop/hanko/backend/v2/config"
 	"strings"
 	"testing"
 	"time"

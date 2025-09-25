@@ -5,10 +5,10 @@ import (
 	"github.com/gobuffalo/pop/v6"
 	"github.com/gofrs/uuid"
 	"github.com/labstack/echo/v4"
-	"github.com/teamhanko/hanko/backend/dto/admin"
-	"github.com/teamhanko/hanko/backend/persistence"
-	"github.com/teamhanko/hanko/backend/webhooks"
-	"github.com/teamhanko/hanko/backend/webhooks/events"
+	"github.com/FreddyDevelop/hanko/backend/v2/dto/admin"
+	"github.com/FreddyDevelop/hanko/backend/v2/persistence"
+	"github.com/FreddyDevelop/hanko/backend/v2/webhooks"
+	"github.com/FreddyDevelop/hanko/backend/v2/webhooks/events"
 )
 
 func TriggerWebhooks(ctx echo.Context, tx *pop.Connection, evt events.Event, data interface{}) error {

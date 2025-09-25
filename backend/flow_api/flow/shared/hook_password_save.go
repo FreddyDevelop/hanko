@@ -3,8 +3,8 @@ package shared
 import (
 	"fmt"
 	"github.com/gofrs/uuid"
-	"github.com/teamhanko/hanko/backend/flowpilot"
-	"github.com/teamhanko/hanko/backend/persistence/models"
+	"github.com/FreddyDevelop/hanko/backend/v2/flowpilot"
+	"github.com/FreddyDevelop/hanko/backend/v2/persistence/models"
 )
 
 type PasswordSave struct {

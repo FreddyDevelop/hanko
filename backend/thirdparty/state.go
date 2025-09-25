@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/teamhanko/hanko/backend/config"
-	"github.com/teamhanko/hanko/backend/crypto"
-	"github.com/teamhanko/hanko/backend/crypto/aes_gcm"
+	"github.com/FreddyDevelop/hanko/backend/v2/config"
+	"github.com/FreddyDevelop/hanko/backend/v2/crypto"
+	"github.com/FreddyDevelop/hanko/backend/v2/crypto/aes_gcm"
 	"time"
 )
 

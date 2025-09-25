@@ -2,7 +2,7 @@ package handler
 
 import (
 	"github.com/stretchr/testify/suite"
-	"github.com/teamhanko/hanko/backend/test"
+	"github.com/FreddyDevelop/hanko/backend/v2/test"
 	"net/http"
 	"net/http/httptest"
 	"testing"

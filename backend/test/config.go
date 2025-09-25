@@ -1,6 +1,6 @@
 package test
 
-import "github.com/teamhanko/hanko/backend/config"
+import "github.com/FreddyDevelop/hanko/backend/v2/config"
 
 var DefaultConfig = config.Config{
 	Webauthn: config.WebauthnSettings{

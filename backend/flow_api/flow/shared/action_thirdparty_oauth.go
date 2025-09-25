@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"slices"
 
-	"github.com/teamhanko/hanko/backend/config"
-	"github.com/teamhanko/hanko/backend/flowpilot"
-	"github.com/teamhanko/hanko/backend/thirdparty"
-	"github.com/teamhanko/hanko/backend/utils"
+	"github.com/FreddyDevelop/hanko/backend/v2/config"
+	"github.com/FreddyDevelop/hanko/backend/v2/flowpilot"
+	"github.com/FreddyDevelop/hanko/backend/v2/thirdparty"
+	"github.com/FreddyDevelop/hanko/backend/v2/utils"
 	"golang.org/x/oauth2"
 )
 

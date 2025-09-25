@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/teamhanko/hanko/backend/ee/saml/config"
+	"github.com/FreddyDevelop/hanko/backend/v2/ee/saml/config"
 	"strings"
 )
 

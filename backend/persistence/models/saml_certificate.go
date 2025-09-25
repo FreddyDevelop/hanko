@@ -8,8 +8,8 @@ import (
 	"encoding/pem"
 	"fmt"
 	"github.com/gobuffalo/validate/v3/validators"
-	"github.com/teamhanko/hanko/backend/crypto"
-	"github.com/teamhanko/hanko/backend/crypto/aes_gcm"
+	"github.com/FreddyDevelop/hanko/backend/v2/crypto"
+	"github.com/FreddyDevelop/hanko/backend/v2/crypto/aes_gcm"
 	"math/big"
 	"time"
 

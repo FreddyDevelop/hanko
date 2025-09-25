@@ -2,8 +2,8 @@ package dto
 
 import (
 	"github.com/fatih/structs"
-	"github.com/teamhanko/hanko/backend/config"
-	"github.com/teamhanko/hanko/backend/persistence/models"
+	"github.com/FreddyDevelop/hanko/backend/v2/config"
+	"github.com/FreddyDevelop/hanko/backend/v2/persistence/models"
 	"strings"
 )
 

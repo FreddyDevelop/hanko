@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/teamhanko/hanko/backend/persistence/models"
+	"github.com/FreddyDevelop/hanko/backend/v2/persistence/models"
 	"github.com/tidwall/gjson"
 	"strings"
 )

@@ -3,8 +3,8 @@ package shared
 import (
 	"fmt"
 	"github.com/gofrs/uuid"
-	"github.com/teamhanko/hanko/backend/dto"
-	"github.com/teamhanko/hanko/backend/flowpilot"
+	"github.com/FreddyDevelop/hanko/backend/v2/dto"
+	"github.com/FreddyDevelop/hanko/backend/v2/flowpilot"
 )
 
 type GetUserData struct {

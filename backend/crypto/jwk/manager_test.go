@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
-	"github.com/teamhanko/hanko/backend/test"
+	"github.com/FreddyDevelop/hanko/backend/v2/test"
 	"testing"
 )
 
